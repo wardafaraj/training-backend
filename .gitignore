@@ -1,0 +1,38 @@
+*.DS_Store
+
+backend/.storage/.logs
+backend/.storage/uploads
+backend/.storage/reports
+backend/.storage/downloads
+backend/.storage/docs
+backend/config.yml
+backend/bin
+
+frontend/.storage/.logs
+frontend/.storage/routes
+frontend/.storage/downloads
+frontend/.storage/tmp
+frontend/.storage/cmd
+frontend/config.yml
+frontend/bin
+
+
+
+Pending Endpoints
+TAMISEMI
+- Admin Areas -
+- Number of Teachers - Study leave
+                     - Absenteeism
+                     - Staff
+    
+- Number of Students - Enrollment
+                     - Disability
+                     - Dropout
+
+- Books 
+
+
+
+
+
+location issues between SAS and TAMISEMI
